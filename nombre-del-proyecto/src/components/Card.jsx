@@ -10,7 +10,7 @@ function Card() {
       />
       <div className="p-6">
         <h2 className="text-2xl font-bold text-gray-800 mb-1">Gustavo Cerati</h2>
-        <h3 className="text-sm text-indigo-600 font-medium mb-3">Genio del siglo XXI</h3>
+        <h3 className="text-sm text-indigo-600 font-medium mb-3">Genio Del siglo XXI</h3>
         <p className="text-gray-600 text-sm">
           Gustavo Cerati fue un influyente músico, compositor y productor argentino, conocido por su trabajo como líder de la banda Soda Stereo y su exitosa carrera en solitario. Cerati dejó una huella imborrable en la industria musical antes de su fallecimiento en 2014.
         </p>
